@@ -17,6 +17,10 @@ h1 {
   display: flex;
 }
 
+.rating-stars {
+  font-size: 2rem
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
